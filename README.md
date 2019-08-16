@@ -29,7 +29,7 @@
 |   alt+j   | ↓ |
 |   alt+k   | ↑ |
 |   alt+l   | → |
-|   alt+< 或 alt+b   | HOME |
+|   alt+< 或 alt+b   | CTRL+← |
 |   alt+> 或 alt+e   | CTRL+→ |
 |   ctrl+k ctrl+h    | HOME |
 |	ctrl+k ctrl+l		| END |
